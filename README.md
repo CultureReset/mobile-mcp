@@ -1,3 +1,14 @@
+> **CultureReset fork of [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp).** An MCP server that lets AI agents drive iOS and Android apps on simulators, emulators and real devices.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/mobile-next/mobile-mcp).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices
 
 **English** | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
